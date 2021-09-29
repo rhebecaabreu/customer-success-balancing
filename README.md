@@ -1,4 +1,4 @@
-# Ruby
+# Customer Success Balancing 
 
 ## Sobre
 - Desenvolvido utilizando a versão 2.7.0 do Ruby. 
